@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.MuiPagination-ul {
+  display: flex;
+  padding: 0;
+  flex-wrap: wrap;
+  list-style: none;
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+  margin-bottom: 20px;
+}
